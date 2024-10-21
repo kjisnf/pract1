@@ -35,10 +35,15 @@ namespace WpfTreugl
                 if (la == lb) krs += 1;
                 if (lb == lc) krs += 1;
                 if (lc == la) krs += 1;
-                if (la > lb + lc) krs = -1;
+                if (la >= lb + lc) krs = -1;
+                if (lb >= la + lc) krs = -1;
+                if (lc >= lb + la) krs = -1;
 
                 switch (krs)
                 {
+                    case -1:
+                        TypeTreugl.Text = "Треугольник не существует";
+                        break;
                     case 0: 
                         TypeTreugl.Text = "Разностроронний";
                         break;
