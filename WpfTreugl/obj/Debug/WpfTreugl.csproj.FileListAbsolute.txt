@@ -1,0 +1,16 @@
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\bin\Debug\WpfTreugl.exe.config
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\bin\Debug\WpfTreugl.exe
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\bin\Debug\WpfTreugl.pdb
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\MainWindow.g.cs
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\App.g.cs
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl_MarkupCompile.cache
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl_MarkupCompile.lref
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\MainWindow.baml
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.g.resources
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.Properties.Resources.resources
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.exe
+C:\Users\stud\source\repos\WpfTreugl\WpfTreugl\obj\Debug\WpfTreugl.pdb
